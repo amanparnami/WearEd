@@ -1,0 +1,10 @@
+/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/classes/debug
+/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-fb5e966d47d71f7ed40c5eba14375dadbfee8373.jar
+/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-5559cbd7e20c4c86726feda2595eb9768468bbcd.jar
+/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/classes-c90d6f8ce38abf3961b3814ee9bd41a26e4921fc.jar
+/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/classes-f3d037a0c18fc941b02c58ac09cc5e22eabebaf4.jar
+/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-55cd498831bf80d0a1e6be578786495a94f95372.jar
+/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/classes-638d991618d51d13aec23d87149079706f8ae8d2.jar
+/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/classes-a118f4560601932291524cb119324c575d1e7d3d.jar
+/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/classes-0e8f6896620323819e6b77cbddc7616a3e5459c2.jar
+/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/classes-b85f0708cd5cd66745495fe655c74c07717801b2.jar

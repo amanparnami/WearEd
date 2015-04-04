@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/classes-638d991618d51d13aec23d87149079706f8ae8d2.jar" />
+    </item>
+    <item
+        jar="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Application/build/intermediates/pre-dexed/debug/classes-eda3c70fd806a6c935d76f65d3affbaf6e39e5ff.jar" />
+    </item>
+    <item
+        jar="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-fb5e966d47d71f7ed40c5eba14375dadbfee8373.jar" />
+    </item>
+    <item
+        jar="/Users/localadmin/Workspace/Develop/Library/android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-5559cbd7e20c4c86726feda2595eb9768468bbcd.jar" />
+    </item>
+    <item
+        jar="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/classes-0e8f6896620323819e6b77cbddc7616a3e5459c2.jar" />
+    </item>
+    <item
+        jar="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/classes-c90d6f8ce38abf3961b3814ee9bd41a26e4921fc.jar" />
+    </item>
+    <item
+        jar="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Application/build/intermediates/pre-dexed/debug/classes-4e93a5cfe47620926b485b32f6153afc223daad8.jar" />
+    </item>
+    <item
+        jar="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/classes-b85f0708cd5cd66745495fe655c74c07717801b2.jar" />
+    </item>
+    <item
+        jar="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-87a9e66ca341fe82952e55985c2a0fcba2711231.jar" />
+    </item>
+    <item
+        jar="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Application/build/intermediates/pre-dexed/debug/classes-4a9c1ac115ab8b1a0c8902a9bc115701c08d5101.jar" />
+    </item>
+    <item
+        jar="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Application/build/intermediates/pre-dexed/debug/classes-9026b4ab16e91b52ebb9058c628fdd32a869816e.jar" />
+    </item>
+    <item
+        jar="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/classes-a118f4560601932291524cb119324c575d1e7d3d.jar" />
+    </item>
+    <item
+        jar="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-55cd498831bf80d0a1e6be578786495a94f95372.jar" />
+    </item>
+    <item
+        jar="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/classes-f3d037a0c18fc941b02c58ac09cc5e22eabebaf4.jar" />
+    </item>
+    <item
+        jar="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-b1e5cc00fa419ef2252342dea9b4ecefb324fb61.jar" />
+    </item>
+    <item
+        jar="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/Users/localadmin/Workspace/Develop/WearEd/WearableNotifications/Application/build/intermediates/pre-dexed/debug/classes-8760e393e0b4d7166bfea93e8a40345623632b76.jar" />
+    </item>
+
+</items>
