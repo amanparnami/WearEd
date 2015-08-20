@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WearEd</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pay_attention">Pay Attention!</string>
+    <string name="professor">Professor</string>
+    <string name="student">Student</string>
+    <string name="title">WearEd</string>
+    <string name="title_activity_professor">ProfessorActivity</string>
+    <string name="title_activity_student">StudentActivity</string>
+    <string name="understand">I get it!</string>
+    <string name="unclear">I don\'t get it...</string>
+</resources>
